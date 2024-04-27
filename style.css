@@ -3,8 +3,11 @@
   color: #333533;
 }
 body {
-  background-color: #f2e9e4;
+  background-color: #231942;
 }
 .header {
   background-color: #4a4e69;
+}
+.header .title {
+  color: #9f86c0;
 }
