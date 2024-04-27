@@ -11,11 +11,8 @@ body {
 }
 .header .title {
   color: #9f86c0;
-  font-size: larger;
-  padding: 60px;
-  border: 100px solid palevioletred;
-  width: 200px;
-}
+  font-size: 56px;
+ 
 .header .position {
   color: #4a4e69;
 }
