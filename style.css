@@ -1,6 +1,7 @@
 * {
   font-family: "poppins", "sans-serif";
-  color: #333533;
+  color: black;
+  box-sizing: border-box;
 }
 body {
   background-color: #231942;
@@ -10,6 +11,10 @@ body {
 }
 .header .title {
   color: #9f86c0;
+  font-size: larger;
+  padding: 60px;
+  border: 100px solid palevioletred;
+  width: 200px;
 }
 .header .position {
   color: #4a4e69;
