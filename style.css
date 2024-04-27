@@ -11,3 +11,15 @@ body {
 .header .title {
   color: #9f86c0;
 }
+.header .position {
+  color: #4a4e69;
+}
+.button {
+  color: antiquewhite;
+}
+.lang {
+  color: #ffd6ff;
+}
+a {
+  text-decoration: none;
+}
