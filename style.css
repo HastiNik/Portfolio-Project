@@ -1,27 +1,27 @@
 * {
   font-family: "poppins", "sans-serif";
-  color: black;
+  color: #212529;
   box-sizing: border-box;
 }
 body {
-  background-color: #231942;
+  background-color: #f9f7f3;
 }
 .header {
-  background-color: #4a4e69;
+  background-color: #8d99ae;
 }
 .header .title {
-  color: #9f86c0;
+  color: black;
   font-size: 56px;
 }
 
 .header .position {
-  color: #4a4e69;
+  color: #ffd6ff;
 }
 .button {
-  color: antiquewhite;
+  color: #90e0ef;
 }
 .lang {
-  color: #ffd6ff;
+  color: #bbd0ff;
 }
 a {
   text-decoration: none;
