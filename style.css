@@ -8,6 +8,7 @@ body {
 }
 .header {
   background-color: #8d99ae;
+  height: 376px;
 }
 .header .title {
   color: black;
@@ -19,10 +20,19 @@ body {
 }
 .button {
   color: #90e0ef;
+  border: 1px solid #90e0ef;
+  border-radius: 4px;
 }
 .lang {
   color: #bbd0ff;
+  border: 1px solid #bbd0ff;
+  border-radius: 4px;
 }
 a {
   text-decoration: none;
+}
+.header img {
+  height: 290px;
+  width: 290px;
+  border-radius: 50%;
 }
